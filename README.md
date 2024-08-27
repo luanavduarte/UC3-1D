@@ -5,7 +5,24 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
 
+#js
+
+#var
+#prompt
+#if else
+#case
+#number
+
+
 
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
+
+
+
+
+boletim
+senha secreta
+swicth case
+array
