@@ -16,7 +16,8 @@ console.log(`Parabens, ${nome}! você está aprovado(a).`)
 console.log(`Atenção, ${nome}! Você está de recuperação.`)
 } else { 
   Console.log("olá, ${nome}. infelizmente você reprovou. smt");
- }```
+ }
+```
  
 #swhitch case
 switch(produto){
