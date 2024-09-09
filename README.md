@@ -5,8 +5,8 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
 
-#string ex:
-const nota1 = prompt ("me diga sua nota de ingles.")
+#string 
+```const nota1 = prompt ("me diga sua nota de ingles.")```
 
 #if\if else ex:
 
