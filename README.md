@@ -18,7 +18,7 @@ console.log(`Atenção, ${nome}! Você está de recuperação.`)
   Console.log("olá, ${nome}. infelizmente você reprovou. smt");
  }
  
-##swhitch case
+#swhitch case
 switch(produto){
   case "arroz":
   case "biscoito":  
@@ -30,7 +30,14 @@ switch(produto){
   default:
     console.log(`o produto ${produto}, não está a venda vá para outro lugar por favor.`)
 }
-{item 2 (https://codepen.io/Luana-Duarte/pen/QWXOaJr?editors=0010)}
+atividade completa: {item 2 (https://codepen.io/Luana-Duarte/pen/QWXOaJr?editors=0010)}
+
+#array
+ex:const array = ["adidas", "nike", "amazon", "spotify", "microsoft"]
+array.pop()
+console.log(array)
+
+atividade completa {item 3 (https://codepen.io/Luana-Duarte/pen/GRbPdQo)}
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
