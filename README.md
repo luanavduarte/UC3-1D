@@ -8,15 +8,15 @@ Escreva aqui os conteúdos aprendidos.
 #string 
 ```const nota1 = prompt ("me diga sua nota de ingles.")```
 
-#if\if else ex:
+# if\if else ex:
 
-if(media >= 7){
+```if(media >= 7){
 console.log(`Parabens, ${nome}! você está aprovado(a).`)
 } else if (media < 7 && media >= 4){
 console.log(`Atenção, ${nome}! Você está de recuperação.`)
 } else { 
   Console.log("olá, ${nome}. infelizmente você reprovou. smt");
- }
+ }```
  
 #swhitch case
 switch(produto){
